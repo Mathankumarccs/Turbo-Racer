@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 35fc6c25dbf6a694aacd825fc72a577e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle_019
+    100002: Cube_006
+    100004: Cube_007
+    100006: Cube_008
+    100008: Plane_011
+    100010: //RootNode
+    400000: Circle_019
+    400002: Cube_006
+    400004: Cube_007
+    400006: Cube_008
+    400008: Plane_011
+    400010: //RootNode
+    2300000: Circle_019
+    2300002: Cube_006
+    2300004: Cube_007
+    2300006: Cube_008
+    2300008: Plane_011
+    2300010: //RootNode
+    3300000: Circle_019
+    3300002: Cube_006
+    3300004: Cube_007
+    3300006: Cube_008
+    3300008: Plane_011
+    3300010: //RootNode
+    4300000: Plane_011
+    4300002: Cube_006
+    4300004: Cube_007
+    4300006: Cube_008
+    4300008: Circle_019
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Faruri
+    second: {fileID: 2100000, guid: c5481a3dc46e4ea4999b347710b4b12f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_001
+    second: {fileID: 2100000, guid: 81c41a2af51682d468b72caa8a3a3a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mask_001
+    second: {fileID: 2100000, guid: d988d43f7f6c84444a17c64618280198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 6fea08585ce8f2c4fba024af4ee02184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 02769bf91abb92c4eb3f66b970166c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: ae3be46dce265ed4eb4952b46c9796cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: e7488c504b4ac1b4c9f3ef8a563545b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaintUpper
+    second: {fileID: 2100000, guid: 961b6389795322d4a88361492bf95f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tank
+    second: {fileID: 2100000, guid: b8dacd87f14558f4fa0c1094852f82e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrailerLoad
+    second: {fileID: 2100000, guid: 75e6531734e4a5b46b0126a97fcead7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base_001
+    second: {fileID: 2100000, guid: 207caf75febc5dc41b9936bb5d9874d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paintLower
+    second: {fileID: 2100000, guid: 2ca2f2ca0673ea745aea250092a7e0f2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

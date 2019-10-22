@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 622799ca8bfbc4254966a47f6420d374
+timeCreated: 1501595495
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - uiCamera: {instanceID: 0}
+  - storeObject: {instanceID: 0}
+  - carSelection: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

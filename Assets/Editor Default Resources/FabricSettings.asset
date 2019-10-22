@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09ad9ddc0e5b942a98ec392b434d39bd, type: 3}
+  m_Name: FabricSettings
+  m_EditorClassIdentifier: 
+  email: lakshya@greedygame.com
+  rawToken: '{"access_token":"337407809a9b9d776e778400616b77c917c900e2a82a3c295cfd2da02caab269","refresh_token":"cb1709c95262c60fbc1d629b70d65ba45a29eee69f6c7312b932ee88d4c30221","token_type":"bearer","expires_in":86400}'
+  organization:
+    Name: Greedygame
+    Id: 56fb7a032edc7f926c000087
+    ApiKey: f17bcdbe0df7f88d8ededccc7d7448ff047c3126
+    BuildSecret: e93d3561a497fa9dce655536178d52e5ab05037e1e8473c4d159ea917cd9a9a0
+  iconUrl: https://s3.amazonaws.com/assets.crashlytics.com/production/project/6979216/project_icon/3330173/icon.png
+  dashboardUrl: https://www.fabric.io/greedygame2/android/apps/com.greedygame.speedstreet3d
+  initialization: 1
+  flowSequence: 200
+  conflict: 
+  kit: Crashlytics
+  installedKits:
+  - Name: Crashlytics
+    InstallationStatus: 2
+    Installed: 1
+    Enabled: 0
+    Meta:
+    - Key: ConfiguredTimestamp
+      Value: 1539086589
+      Platform: 
+    - Key: Dependencies
+      Value: '[{"name":"Crashlytics-Android","version":"2.9.5"},{"name":"Crashlytics-Core-Android","version":"2.6.4"},{"name":"Fabric-Android","version":"1.4.4"},{"name":"Answers-Android","version":"1.4.3"},{"name":"Beta-Android","version":"1.2.10"},{"name":"Crashlytics-iOS","version":"3.10.7"},{"name":"Crashlytics-Wrapper-iOS","version":"0.0.0"},{"name":"Crashlytics-Wrapper-Android","version":"0.0.0"}]'
+      Platform: 

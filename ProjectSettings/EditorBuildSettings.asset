@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/GameStart.unity
+    guid: efd90d3c69d30ee40bee9f76abf4ce91
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/splashScreen.unity
+    guid: 17c76a26955e05040a555a1531e173b8
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/NewMainMenu.unity
+    guid: 28733721ff5ef6b44b1f1ebb610b65cb
+  - enabled: 0
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/MainMenu.unity
+    guid: d154c78819682124b96235b0a0df8d8e
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/CarSelectionMenu.unity
+    guid: 55b3dc866eebe544085c520f8575f2be
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/LevelSelection.unity
+    guid: 6402d91afec16f644ac07063a6ba6514
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/Desert2.unity
+    guid: 1cc49c5b99f4d924fa3405f4d965df75
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/City.unity
+    guid: 857b0ce2fb458704482c86b3044f6f36
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/Desert3.unity
+    guid: a807258a6d0a4e34bb0cf1b8cc16fc3c
+  - enabled: 0
+    path: Assets/highwayWithoutGGAds.unity
+    guid: 2f50564bf60ef46269a614be0791140e
+  - enabled: 1
+    path: Assets/EtheriumStudio - Traffic Racer/RACER/Scenes/USED SCENES/highway.unity
+    guid: b76d26301f13f904086d5387b9bdc8e9
+  m_configObjects: {}
